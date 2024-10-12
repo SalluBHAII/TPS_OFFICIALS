@@ -143,3 +143,16 @@ footer {
 .role {
   font-weight: bold;
 }
+
+.ansarr {
+  display: flex;
+  flex-direction: column;
+}
+
+.kutta {
+  margin-bottom: 5px;
+}
+
+.samebro {
+  text-align: center;
+}
